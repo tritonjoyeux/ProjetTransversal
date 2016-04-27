@@ -1,0 +1,3 @@
+cook4us_homepage:
+    path:     /
+    defaults: { _controller: Cook4usBundle:Default:index }
